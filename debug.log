@@ -1,0 +1,42 @@
+[1202/191625.212:ERROR:directory_reader_win.cc(43)] FindFirstFile: Sistem belirtilen yolu bulamýyor. (0x3)
+[0119/121656.265:ERROR:directory_reader_win.cc(43)] FindFirstFile: Sistem belirtilen yolu bulamýyor. (0x3)
+[0320/090715.568:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0320/090720.586:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0320/090725.598:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0320/090730.616:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0320/090734.190:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(77,10-42): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(99,10-42): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0320/090735.636:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0320/090740.648:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0320/090745.670:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0320/090750.695:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0320/090755.722:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0320/090800.727:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0320/090802.752:INFO:CONSOLE(1)] "Long rAF frame-time", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-rich-tooltips/build/external.js (1)
+[0320/090802.819:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(69,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(77,9-43): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0320/090805.748:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0320/090810.763:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0320/090815.778:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0320/090820.786:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0320/090825.809:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0320/090830.820:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0320/090835.840:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0320/090840.856:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0320/090845.869:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0320/090850.883:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0320/090855.901:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0320/090900.911:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0320/090905.927:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0320/090910.941:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0320/090915.957:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0320/090920.967:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0320/090925.977:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0320/090930.994:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0320/090936.009:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0320/090941.019:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[0320/090946.030:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.

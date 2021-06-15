@@ -1,0 +1,306 @@
+body{
+	font-family: font-family: 'Gothic A1', sans-serif; 
+	font-size: 16px;
+}
+
+header .top-header {
+	background-color: #1d2c58;
+	padding: 13px 0;
+	
+}
+
+header .top-header a {
+	color: #fff;
+	text-decoration: none;
+	padding:0 10px;
+	border-right: 1px solid white;
+}
+
+header .top-header .social a {
+	padding:0 5px;
+	border-right: none;
+}
+
+header .bottom-header form {
+	padding-top: 30px;
+	
+}
+header .bottom-header form input.form-control {
+	border-radius:0;
+	background-color: #dfdfdf;
+	width: 80%;
+}
+header .bottom-header form input.btn {
+	padding:0;
+	border-radius:0;
+}
+header .bottom-header .login , header .bottom-header .basket {
+	border: 3px solid #1d2c58;
+	margin-top: 30px;
+	padding: 3px 0;
+}
+
+header .bottom-header .login span , header .bottom-header .basket span {
+	font-size:10px ;
+}
+
+header .bottom-header .main-menu {
+	background-color: #ff9933 ;
+}
+
+header .bottom-header .main-menu nav {
+	padding-left:0 ;
+	padding-right: 0;
+}
+
+
+header .bottom-header .main-menu nav ul {
+	margin: 0 auto;
+}
+header .bottom-header .main-menu nav ul li{
+	padding: 0 40px ;
+	text-align: center;
+}
+
+header .bottom-header .main-menu .nav-item a.nav-link {
+	color: white ;
+}
+
+content h2 {
+	color: #ff3333;
+	font-size: 22px;
+}
+content h2:after {
+	content:"";
+	background-color: #ff3333;
+	display: inline-block;
+	height: 1px;
+	width: 84%;
+	vertical-align: middle;
+	position: relative;
+	left: 10px;
+}
+content .populer h2 {
+	color: #33ccff;
+	font-size: 22px;
+}
+content .populer h2:after {
+	content:"";
+	background-color: #33ccff;
+	display: inline-block;
+	height: 1px;
+	width: 80%;
+	vertical-align: middle;
+	position: relative;
+	left: 10px;
+}
+content .kategori h2 {
+	color: #006633;
+	font-size: 22px;
+}
+content .kategori h2:after {
+	content:"";
+	background-color: #006633;
+	display: inline-block;
+	height: 1px;
+	width: 80%;
+	vertical-align: middle;
+	position: relative;
+	left: 10px;
+}
+content .urunler {
+	border: 3px solid #ff3333;
+	border-radius: 10px;
+}
+content .urunler .urun-kutu {
+	position: relative;
+	min-height: 250px;
+	padding-left: 50px;
+	padding-top: 50px;
+}
+content .urunler .urun-kutu .urun-aciklama {
+	position: absolute;
+	top:100px;
+}
+content .urunler .urun-kutu .urun-aciklama span {
+	display: block;
+}
+content .urunler .urun-kutu .urun-aciklama span.old-price {
+	text-decoration: line-through;
+	text-decoration-color: red;
+	color: Black;
+	font-size:22px;
+}
+content .urunler .urun-kutu .urun-aciklama span.new-price {
+	color: Black;
+	font-size: 48px;
+}
+content .urunler .urun-kutu .urun-aciklama span.title {
+	color: Black;
+	font-size: 22px;
+}
+content .populer .urunler {
+	border: 3px solid #33ccff;
+	border-radius: 10px;
+}
+content .populer .urunler .urun-kutu {
+	position: relative;
+	min-height: 250px;
+	padding-left: 50px;
+	padding-top: 50px;
+}
+content .populer .urunler .urun-kutu .urun-aciklama {
+	position: absolute;
+	top:130px;
+}
+content .populer .urunler .urun-kutu .urun-aciklama span {
+	display: block;
+}
+content .populer .urunler .urun-kutu .urun-aciklama span.old-price {
+	text-decoration: line-through;
+	text-decoration-color: red;
+	color: Black;
+	font-size:22px;
+}
+content .populer .urunler .urun-kutu .urun-aciklama span.new-price {
+	color: Black;
+	font-size: 48px;
+}
+content .populer .urunler .urun-kutu .urun-aciklama span.title {
+	color: Black;
+	font-size: 22px;
+}
+content .kategori .urunler {
+	border: 3px solid #006633;
+	border-radius: 0px;
+}
+
+content .kategori .urunler .kategori-detay {
+	border:1px solid #006633;
+	padding:20px 0;
+}
+content .kategori .urunler .kategori-detay a {
+	color: #006633;
+	text-decoration:none;
+}
+
+content .kategori .urunler .kategori-detay i {
+	display:block;
+	font-size: 60px;
+}
+
+content .newsletter {
+	background-color: #663366;
+	color: white;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+content .newsletter form{
+	margin-top:70px;
+}
+
+content .newsletter form .btn-primary{
+	background-color:black;
+	color:white;
+	padding:10px 40px;
+	border:none;
+}
+
+content .social{
+	background-color:#f3f3f3;
+	margin-top: 25px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+
+
+footer .top-footer{
+	background-color:#1d2c58;
+	padding-top:20px;
+	padding-bottom:20px;
+}
+
+footer .top-footer h4{
+	font-size:16px;
+	color:white;
+}
+footer .top-footer ul{
+	padding-left:15px;
+}
+
+footer .top-footer ul li{
+	
+	color:white;
+}
+
+footer .top-footer ul li a{
+	font-size:13px;
+	color:white;
+}
+
+footer .top-footer .iletisim-detay {
+	color:white;
+}
+
+footer .top-footer .iletisim-detay a {
+	border:1px solid black;
+	border-radius:10px;
+	padding:0 20px;
+	color:white;
+	margin-bottom:10px;
+	
+}
+footer .top-footer .iletisim-detay p span {
+	font-size:26px;
+}
+
+footer .top-footer .iletisim-detay p i {
+	color:white;
+	margin-right:5px;
+}
+
+
+footer .bottom-footer {
+	background-color:#f3f3f3;
+	padding:15px ;
+	padding-bottom:15px;
+}
+
+
+@media (max-width:1199px) {
+	header .bottom-header form input.form-control {
+		width: 94%;
+	}
+	.navbar-toggler{
+		width:100%;
+	}
+	content h2:after {
+		width:74%;
+	}
+	content .populer h2:after, content .kategori h2:after {
+		width: 70%;
+	}
+}
+@media (max-width:768px) {
+	header .bottom-header form input.form-control {
+		width: 89%;
+	}
+	.navbar-toggler{
+		width:100%;
+	}
+	content h2:after {
+		width:49%;
+	}
+	content .populer h2:after, content .kategori h2:after {
+		width: 42%;
+	}
+}
+
+
+
+
+
+
+
